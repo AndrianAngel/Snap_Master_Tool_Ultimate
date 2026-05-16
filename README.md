@@ -129,7 +129,7 @@
 
 ---
 
-## 🟛 Tray Menu
+## 📌 Tray Menu
 
 <div align="center">
 
@@ -143,7 +143,7 @@
 
 ---
 
-## 🟛 Closed Snap History
+## 📌 Closed Snap History
 
 <div align="center">
 
@@ -157,7 +157,7 @@
 
 ---
 
-## 🎵 WATCH DEMO
+## 📽️ WATCH DEMO
 
 ---
 
