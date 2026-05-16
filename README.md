@@ -3,6 +3,219 @@
 **SnapMaster** is a portable Windows utility that gives you full control over window snapping, layout management, and session restoration — with a live preview grid, hotkeys, and a clean dark-mode settings panel. No installation required.
 
 ---
+---
+
+## 🎺 SNAP MASTER TOOL
+
+---
+
+## 🏠 SETTINGS GUI
+
+---
+
+### 🟢 Layouts Section
+
+<div align="center">
+
+
+
+![Layouts Section](Images/1LS.png)
+
+
+
+</div>
+
+---
+
+### 🟢 Hotkeys Section
+
+<div align="center">
+
+
+
+![Hotkeys Section](Images/2HS.png)
+
+
+
+</div>
+
+---
+
+### 🟢 Options Section
+
+<div align="center">
+
+
+
+![Options Section](Images/3OS.png)
+
+
+
+</div>
+
+---
+
+### 🟢 Exceptions Section
+
+<div align="center">
+
+
+
+![Exceptions Section](Images/4ES.png)
+
+
+
+</div>
+
+---
+
+## 📖 BUILT-IN USER GUIDE
+
+---
+
+### 🔴 Layouts Help
+
+<div align="center">
+
+
+
+![Layouts Help](Images/H1.png)
+
+
+
+</div>
+
+---
+
+### 🔴 Hotkeys Help
+
+<div align="center">
+
+
+
+![Hotkeys Help](Images/H2.png)
+
+
+
+</div>
+
+---
+
+### 🔴 Options Help
+
+<div align="center">
+
+
+
+![Options Help](Images/H3.png)
+
+
+
+</div>
+
+---
+
+### 🔴 Exceptions Help
+
+<div align="center">
+
+
+
+![Exceptions Help](Images/H4.png)
+
+
+
+</div>
+
+---
+
+## 🟛 Tray Menu
+
+<div align="center">
+
+
+
+![Tray Menu](Images/Tray.png)
+
+
+
+</div>
+
+---
+
+## 🟛 Closed Snap History
+
+<div align="center">
+
+
+
+![Closed Snap History](Images/History.png)
+
+
+
+</div>
+
+---
+
+## 🎵 WATCH DEMO
+
+---
+
+### ✅ ALL SETTINGS OVERVIEW
+
+<div align="center">
+
+
+
+![All Settings Overview](Gif/Setting.gif)
+
+
+
+</div>
+
+---
+
+### ✅ SNAP · SWAP · CYCLE
+
+<div align="center">
+
+
+
+![Snap Swap Cycle](Gif/Snap_swap_cycle.gif)
+
+
+
+</div>
+
+---
+
+### ✅ RESTORE ACTIVE WINDOW & RESTORE ALL SNAPS
+
+<div align="center">
+
+
+
+![Restore Active and Restore All](Gif/RestoreActive_RestoreAll.gif)
+
+
+
+</div>
+
+---
+
+### ✅ RESTORE LAST CLOSED SNAP — LIFO
+
+<div align="center">
+
+
+
+![Restore Last Closed Snap](Gif/Restore_closed_snap.gif)
+
+
+
+</div>
+
+---
 
 ## 📦 Download
 
