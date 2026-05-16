@@ -3,7 +3,6 @@
 **SnapMaster** is a portable Windows utility that gives you full control over window snapping, layout management, and session restoration — with a live preview grid, hotkeys, and a clean dark-mode settings panel. No installation required.
 
 ---
----
 
 ## 🎺 SNAP MASTER TOOL
 
